@@ -2,7 +2,7 @@
 
 <h4 align="center">Team Insane Music Bot repo <br>Insane Music A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...<br</h4>
 
-<p align="center"><a href="https://t.me/always_hungry365"><img src="https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Tch_shyari_Group"><img src="https://telegra.ph/file/981719bce41235e9c58be.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using Insane, That is the greatest pleasure we have !
